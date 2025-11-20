@@ -1,0 +1,88 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://VEiqIVxLZlVj3PF:Wt6wVPMkSRgwZqo@localhost:26551/storage/emulated/0/DCIM/my%20first%20webpage.html
+Subject: Hello, Universe!
+Date: Tue, 18 Nov 2025 17:28:54 +0100
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--4KMQxpvyS6SOH5g03tG62AzQWV5rqCqs9nxW86PiTy----"
+
+
+------MultipartBoundary--4KMQxpvyS6SOH5g03tG62AzQWV5rqCqs9nxW86PiTy----
+Content-Type: text/html
+Content-ID: <frame-4B55C9186278B583A48C6DA81D7AC470@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: http://VEiqIVxLZlVj3PF:Wt6wVPMkSRgwZqo@localhost:26551/storage/emulated/0/DCIM/my%20first%20webpage.html
+
+<!DOCTYPE html><html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  
+  <title>Hello, Universe!</title>
+</head>
+<body>
+  <h1>Hi! I am a Heading</h1>
+  <h2>And I am another heading!</h2>
+  <p>This is my first webpage using HTML</p>
+<p></p>
+    The HyperTextMarkupLanguage or HTML is the standard markup language for
+   documents designed to be displayed in a web browser.
+  <p></p>    
+
+
+<p>
+  The Eternal Deviant warlord from the moon Titan,<b>Thanos</b> <br>
+  is regarded as the most powerful being in the<u>Marvel Universe </u>.
+      He has clashed with many heroes including<br> <i>theAvengers,the
+     Guardians of the Galaxy, the Fantastic Four, and the X-men</i>
+     </p>   
+     
+  
+    <p> We are <em>glad</em> to have a marvel hero like <strong>IronMan!
+    </strong>
+    </p>
+  
+  
+    <p>
+        Tim Berner Lee, a British scientist,invented the World Wide Web (WWW) in
+      <br> <mark>1989</mark> ,while working at CERN
+    </p>
+  
+  
+        <h2>Some Coutries in the World with Best Education:<!--
+  h2-->
+    <ul type="square">
+      <li>United States</li>
+      <li>United Kingdom</li>
+      <li>Germany</li>
+      <li>Canada</li>
+      <li>France</li>
+      </ul>
+    <table>
+      </table><table border="1">
+        <caption>
+          Cancelled Flights for Today
+        </caption>
+      <tbody><tr>
+        <th>From</th>
+        <th>To</th>
+        <th>Status</th> 
+      </tr>
+      <tr>
+        <td>Delhi</td>
+        <td>Berlin</td>
+        <td>Cancelled</td>
+      </tr>
+      <tr>
+        <td>Tokyo</td>
+        <td>Mumbai</td>
+        <td>Rescheduled</td>
+      </tr>
+      <tr>
+        <td>Lagos</td>
+        <td>Laos</td>
+        <td>Cancelled</td>
+      </tr>
+   </tbody></table>
+  
+
+</h2></body></html>
+------MultipartBoundary--4KMQxpvyS6SOH5g03tG62AzQWV5rqCqs9nxW86PiTy------
